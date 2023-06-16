@@ -15,7 +15,7 @@ int main(void)
 	int d;
 
 	for (d = '0'; d <= '9'; d++)
-	putchat(d);
+	putchar(d);
 	putchar('\n');
 
 	return (0);

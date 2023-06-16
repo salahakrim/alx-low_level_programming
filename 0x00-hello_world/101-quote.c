@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <unistd.h>
+
 /**
  * main - prints c prints "and that piece of art is useful" - Dora kor
  * par, 2015-10-19",

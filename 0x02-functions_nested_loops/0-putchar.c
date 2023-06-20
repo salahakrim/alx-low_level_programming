@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * prints _putchar followed by new line
+ * main - prints _putchar followed by new line
  * Return: Always (Success)
  */
 
 int main(void)
 {
-	printf("_putchar\n");
+	_putchar("_putchar\n");
 }

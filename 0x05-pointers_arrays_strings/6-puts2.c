@@ -2,9 +2,10 @@
 
 /**
  * puts2 - Prints every other character of a string
- * @str: The string to be treated
+ * @str: The string to be traeted
  * Return: void
  */
+
 void puts2(char *str)
 {
 	int i;
@@ -12,7 +13,7 @@ void puts2(char *str)
 
 	while (str[j] != '\0')
 	{
-	j++;
+	i++;
 	}
 	for (i = 0; i < j; i += 2)
 	{
